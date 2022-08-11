@@ -1,0 +1,79 @@
+{
+  "sections": [
+    {
+      "heading": "SELLERS FAQs",
+      "topics": [
+        {
+          "title": "1. How do I sell my stuff?",
+          "content": "To sell your product/service, click on the sell icon at the bottom of the app[it looks like a camera icon], select the category of your product or service, then select the subcategory. Fill in the form\nTitle – write a short name of your product or service. This is what buyers will search for.\n\nDescription – Add more details about your product. For example, if you are selling a car, you should put the manufacturer, the year it was made, millage and whether or not the car has been involved in an accident.\n\nPrice – Enter the price at which you want to sell your item in your local currency. Click Next to add pictures. You can either upload pictures from your device or use your Camera. You can add up to 1 or 2 pictures for each ad you create. Make the pictures clear so that users can see what you are selling."
+        },
+        {
+          "title": "2. How do buyers get to know about my stuff?",
+          "content": "Buyers will search on our platform and if the item they are searching matches your product or service, we will show it to the buyers. Then the buyer can contact you. Buyer can call you or send you a text message inside the app. You and the buyer can negotiate the price and decide on where, when and how to do the payment."
+        },
+        {
+          "title": "3. How do I see my ads?",
+          "content": "Once you have created your listing or ad, your product or service will be listed under *MY ADS* tab [second tab at the bottom that looks like a star."
+        },
+        {
+          "title": "4. Do you charge extra fees for adverts? ",
+          "content": "Currently, it is free to buy and/or sell on our platform. We will try to make this service available for free for as long as we can. So we encourage you to support us by donating to us. We use the donations to maintain the app. If people stop donating, we will be forced to have a listing fee. So please donate to us."
+        },
+        {
+          "title": "5. Once listed, is there period my product/service will timeout?",
+          "content": "Listings are going to be available for up to 2 months. Listings that are nor marked as sold after 2 months will be automatically deleted."
+        },
+        {
+          "title": "6. How to I upload new products once the previous ones have been sold?",
+          "content": "Just create a new listing"
+        },
+        {
+          "title": "7. Can I delete my uploaded products at any given time and upload new ones?",
+          "content": "Yes. Under my ads, click on the delete button and confirm. The item will be deleted permanently."
+        },
+        {
+          "title": "8. Is there a way I can track all previous products uploaded?",
+          "content": "Currently, there is no way to track your previously sold items but we are working to add this."
+        },
+        {
+          "title": "9. How do I rate or review a product or seller?",
+          "content": "If you would love to rate a product, click on the product and then click on the review icon. Enter the number of stars you want and write your review. Then submit. When the product or service received many negative feedbacks. We will reach out to the seller to determine what the problem is."
+        }
+      ]
+    },
+    {
+      "heading": "BUYERS FAQs",
+      "topics": [
+        {
+          "title": "1. I have seen a product that I am interested in, how do I get to contact the seller?",
+          "content": "On the product page, click the phone icon to call the seller or click the chat icon to message the seller. In either way, be kind and polite to the seller."
+        },
+        {
+          "title": "2. In my recent dealings with a particular seller I noticed the product he uploaded weren’t the ones I saw. How do I avoid such a situation?",
+          "content": "Thanks for reporting this to us, we encourage you to rate this person/product/service and click the report this product icon. When a product is reported multiple times, it will be automatically deleted from the platform."
+        },
+        {
+          "title": "3. How can I be sure the product listed is the actual product?",
+          "content": "It is at your discretion to meet the buyer, confirm the product is the actual product before buying. We encourage you to request for video calls, or any form of verification that you can."
+        }
+      ]
+    },
+    {
+      "heading": "GENERAL FAQs",
+      "topics": [
+        {
+          "title": "1. I have forgotten my pin, can I reset it?",
+          "content": "Yes, you sure can. Simply go under settings, privacy and change pin number. \nIf you cannot login, please write an email to us at support@peervendors.com with header 'Password Support'"
+        },
+        {
+          "title": "2. How do I contact support?",
+          "content": "You can call our phone numbers listed below, or write us an email. support@peervendors.com"
+        },
+        {
+          "title": "3. What other language(s) is this app available in?",
+          "content": "For now, you can assess this app in three languages; English, French and Spanish. We are working to add more languages with time."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Peer Vendors</string>
+    <string name="facebook_app_id">1024200581673414</string>
+    <string name="fb_login_protocol_scheme">fb1024200581673414</string>
+    <string name="facebook_client_token">ab95298f6fdd30a3c82e98a98b719b5a</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+</resources>
